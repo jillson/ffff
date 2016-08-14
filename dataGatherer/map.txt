@@ -1,0 +1,16 @@
+13 = carries
+14 = rushing yards
+20 = receptions
+21 = passing yards
+31 = fumble? (DL had 1)
+22 = passing TD
+45 = sack?
+68 or 59 or 46 = int?
+33 = Pt After
+5 = qb passing yards
+6 = qb thrown td
+3 = qb completions
+8 = 2?? --> long run?
+2 = qb throws
+4 = 7?? --> loss from sacks?
+
